@@ -1,0 +1,1 @@
+.dart_tool and build directories are not included due to the size.
